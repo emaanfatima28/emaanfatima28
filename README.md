@@ -28,7 +28,3 @@ Balancing logic with creativity — one project at a time 💻💖</i>
 </p>
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=emaanfatima28&show_icons=true&layout=compact"/>
-</p>
