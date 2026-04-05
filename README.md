@@ -5,13 +5,10 @@
 Balancing logic with creativity — one project at a time 💻💖</i>
 </p>
 
-<img align="right" alt="Coding" width="300" 
-src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ekfhde.webp">
-
 <ul>
   <li>🌱 I’m currently learning <b>Web Development and expanding my programming skills</b></li>
   <li>🤝 I’m looking to collaborate on <b>Web Development and Data projects</b></li>
-  <li>📚 I enjoy <b>reading books, learning languages and photography./b></li>
+  <li>📚 I enjoy <b>reading books, learning languages, and photography</b></li>
   <li>📫 Email: <a href="mailto:emaanfatima0613@gmail.com">emaanfatima0613@gmail.com</a></li>
 </ul>
 
@@ -19,7 +16,7 @@ src="https://gifdb.com/images/high/umiko-ahagon-desktop-programming-eg5f8g2281ek
 
 <h3>Languages and Tools 💻</h3>
 
-<p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
