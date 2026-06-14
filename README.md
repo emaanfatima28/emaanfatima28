@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emaan Fatima</h1>
 
 <p align="center">
-<i>Software Engineering student who loves turning ideas into reality through code</i>
+<i>Software Engineer who loves turning ideas into reality through code</i>
 </p>
 
 <ul>
