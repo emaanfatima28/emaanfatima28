@@ -5,9 +5,7 @@
 </p>
 
 <ul>
-  <li>🌱 I’m currently learning <b>Web Development and expanding my programming skills</b></li>
-  <li>🤝 I’m looking to collaborate on <b>Web Development and Data projects</b></li>
-  <li>📚 I enjoy <b>reading books, learning languages, and photography</b></li>
+  <li>I’m looking to collaborate on <b>Web Development and Data projects</b></li>
   <li>📫 Email: <a href="mailto:emaanfatima0613@gmail.com">emaanfatima0613@gmail.com</a></li>
 </ul>
 
